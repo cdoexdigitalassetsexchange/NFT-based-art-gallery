@@ -1,4 +1,4 @@
-contract  MarketplaceAuction {
+contract  NFTMarketplaceAuction {
 
 
     bytes4 constant InterfaceSignature_ERC721 = bytes4(0x9a20483d);
